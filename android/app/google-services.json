@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "486777217674",
+    "project_id": "estudaai-abb31",
+    "storage_bucket": "estudaai-abb31.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486777217674:android:da597bd6b014c9dbf54373",
+        "android_client_info": {
+          "package_name": "com.example.estudaai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM2jScX3INg5RCpGhFCQNACVjXxfizoUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
